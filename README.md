@@ -1,6 +1,6 @@
 # BlackJack Vite
 
-Pasos para ekecutar proyecto:
+Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
 2. Ejecutar `npm install`para reconstruir los módulos de node
